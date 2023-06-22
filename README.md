@@ -1,3 +1,3 @@
 # ProjetoQuitanda
 
-A Quitanda da Val é um E-commerce com Bootstrap 5, oferecendo uma experiência de compra moderna e responsiva. Produtos frescos, processo de compra simplificado e interação com clientes. Acessível em diferentes dispositivos, priorizando a usabilidade.
+A Quitanda da Val é um projeto universitário que utiliza o Bootstrap 5 para criar um E-commerce moderno e funcional. Destaca-se pela variedade de produtos frescos, interação com clientes e acessibilidade. Demonstrando conhecimentos acadêmicos e habilidades em desenvolvimento web.
